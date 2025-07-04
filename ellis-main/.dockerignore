@@ -1,0 +1,12 @@
+# Docker
+.dockerignore
+Dockerfile
+
+# Git
+.git
+.gitignore
+
+# Ambiente virtual e cache
+venv/
+__pycache__/
+escola.db
